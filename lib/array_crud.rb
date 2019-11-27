@@ -7,22 +7,22 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  created_array = ["hello","mari","harmony","brooklyn"]
+  created_array = ["wow", "I", "am", "really", "learning"]
   created_array << "arrays!"
 end
 
 def add_element_to_start_of_array(array, element)
-  created_array = ["hello","mari","harmony","brooklyn"]
+  created_array = ["wow", "I", "am", "really", "learning"]
   created_array.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
-  created_array = ["hello","mari","harmony","brooklyn"]
+  created_array = ["wow", "I", "am", "really", "learning"]
   created_array.pop
 end
 
 def remove_element_from_start_of_array(array)
-  created_array = ["hello","mari","harmony","brooklyn"]
+  created_array = ["wow", "I", "am", "really", "learning"]
   created_array.shift
 end
 
