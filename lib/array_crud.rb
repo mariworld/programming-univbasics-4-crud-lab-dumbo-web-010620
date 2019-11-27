@@ -24,7 +24,6 @@ end
 def remove_element_from_start_of_array(array)
   created_array = ["hello","mari","harmony","brooklyn"]
   created_array.shift
-
 end
 
 def retrieve_element_from_index(array, index_number)
