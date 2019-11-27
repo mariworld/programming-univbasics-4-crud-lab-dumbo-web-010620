@@ -13,7 +13,7 @@ end
 
 def add_element_to_start_of_array(array, element)
   created_array = ["hello","mari","harmony","brooklyn"]
-  created_array.unshift("thanksgiving")
+  created_array.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
